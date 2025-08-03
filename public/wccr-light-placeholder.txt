@@ -1,0 +1,8 @@
+# WCCR Logo Placeholder
+
+This is a placeholder for the Wisconsin Coalition for Cannabis Reform light theme logo.
+
+The actual logo file should be added in Phase 2.
+
+Expected dimensions: ~200x100px PNG format
+Theme: Light version for dark backgrounds
